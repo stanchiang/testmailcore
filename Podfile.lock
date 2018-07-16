@@ -1,0 +1,16 @@
+PODS:
+  - mailcore2-osx (0.6.4)
+
+DEPENDENCIES:
+  - mailcore2-osx
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mailcore2-osx
+
+SPEC CHECKSUMS:
+  mailcore2-osx: 56890045e50f3b09b6530f5bd008eda67e1f6b82
+
+PODFILE CHECKSUM: fd2ddd8ed19fb20bf336d1ce1da2f672e0b43940
+
+COCOAPODS: 1.5.3
